@@ -1,5 +1,5 @@
 #👋 Hi, I’m Rami Farhat
-:## A passionate software developer and university student looking to improve skills in full-stack development:
+## :A passionate software developer and university student looking to improve skills in full-stack development:
 - 💻 I'm currently working on **University & Personal Projects**
 - 👀 I’m looking for a **Summer 2024 Internship**
 - 🌱 I’m currently learning **React**
