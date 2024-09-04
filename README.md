@@ -5,7 +5,7 @@
 </p>
 
 - 💻 I'm currently working on **University & Personal Projects**
-- 👀 I’m looking for a **Summer 2024 Internship**
+- 👀 I’m looking for a **Winter 2025 Internship**
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: [ramifarhat2311@gmail.com](mailto:ramifarhat2311@gmail.com)
